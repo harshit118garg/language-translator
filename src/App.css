@@ -1,0 +1,10 @@
+#root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.App {
+  font-size: 2.5rem;
+}
